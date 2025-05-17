@@ -11,6 +11,7 @@ class item_detail:
         self.itemweight = itemweight
         self.itemvalue = itemvalue
         self.identity = identity
+        self.value_per_unit_weight = itemvalue/itemweight
     
 
 
