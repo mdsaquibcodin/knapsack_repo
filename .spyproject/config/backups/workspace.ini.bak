@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['knapsack_brute_force_part2.py']
+recent_files = ['knapsack_brute_force_part2.py', '..\\.spyder-py3\\autosave\\parameters.py', 'greedy_approach_2.py', 'greedy_approach.py', 'oops_concepts.py', 'backtracking_approach.py', 'untitled0.py', 'recursion.py']
 
 [main]
 version = 0.2.0
